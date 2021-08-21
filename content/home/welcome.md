@@ -6,7 +6,6 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-active: false
 title: "Canadian Emerging Infectious Diseases Modelling Initiative"
 hero_media: welcome.jpg
 design:

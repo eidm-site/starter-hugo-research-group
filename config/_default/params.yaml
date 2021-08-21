@@ -5,8 +5,8 @@
 
 # Appearance
 
-theme: minimal
-day_night: false
+theme: coffee
+day_night: true
 font: native
 font_size: L
 
@@ -52,7 +52,7 @@ main_menu:
   show_language: false
   show_day_night: true
   show_search: true
-  highlight_active_link: false
+  highlight_active_link: true
 
 # Localization
 

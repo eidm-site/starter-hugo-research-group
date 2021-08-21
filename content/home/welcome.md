@@ -6,10 +6,10 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
+active: false
 title: |
-  Wowchemy  
-  Research Group
-hero_media: welcome.jpg
+  Canadian Emerging Infectious Diseases Modelling Initiative
+hero_media: NSERC_FIP_RGB.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -20,4 +20,4 @@ design:
 
 <br>
 
-Making a change to learn how it works.
+The [Emerging Infectious Diseases Modelling (EIDM)](https://www.nserc-crsng.gc.ca/NSERC-CRSNG/FundingDecisions-DecisionsFinancement/2021/EIDM-MMIE_eng.asp) initiative is an [NSERC](https://www.nserc-crsng.gc.ca/index_eng.asp)-funded set of five research networks.

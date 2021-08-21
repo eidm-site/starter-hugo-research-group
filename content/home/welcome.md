@@ -9,7 +9,7 @@ weight: 10  # Order that this section will appear.
 active: false
 title: |
   Canadian Emerging Infectious Diseases Modelling Initiative
-hero_media: NSERC_FIP_RGB.jpg
+hero_media: NSERC_RGB.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
